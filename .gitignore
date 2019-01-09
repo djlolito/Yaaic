@@ -1,5 +1,14 @@
 # Git Ignore for Yaaic
 
+# Android Studio & Gradle
+*.iml
+build/
+.gradle/
+.idea/
+
+# MacOS X
+.DS_Store
+
 # Compiled and generated files
 bin/
 gen/
